@@ -1,8 +1,8 @@
-public class MyApp : Gtk.Application {
+public class converIT : Gtk.Application {
 
-    public MyApp () {
+    public converIT () {
         Object (
-            application_id: "com.github.selwynorren.convertit",
+            application_id: "com.github.selwynorren.converIT",
             flags: ApplicationFlags.FLAGS_NONE
         );
     }
@@ -21,7 +21,7 @@ public class MyApp : Gtk.Application {
     }
 
     public static int main (string[] args) {
-        var app = new MyApp ();
+        var app = new converIT ();
         return app.run (args);
     }
 }
