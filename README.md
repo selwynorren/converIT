@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/robertsanseries/ciano/blob/master/data/images/screenshots.png" alt="Screenshot">
+    <img src="https://github.com/selwynorren/converIT/blob/master/data/images/screenshots.png" alt="Screenshot">
 </p>
 
 <div class="center">
@@ -33,13 +33,13 @@ On elementary OS?
 
 On debian, ubuntu and derivatives
 
-[![Get the .Deb](https://selwynorren.github.io/converIT/img/badge.svg)](https://github.com/robertsanseries/ciano/releases/download/0.1.4/com.github.selwynorren.converIT_0.0.1_amd64.deb) (This will be live in due course)
+[![Get the .Deb](https://selwynorren.github.io/converIT/img/badge.svg)](https://github.com/selwynorren/converIT/releases/download/0.0.1/com.github.selwynorren.converIT_0.0.1_amd64.deb) (This will be live in due course)
 
 #### Hit the link to get Ciano!
 
 <!--- [Get the Flatpak](https://flathub.org/repo/appstream/com.github.robertsanseries.ciano.flatpakref)-->
 
-- [Get the Source Code](https://github.com/robertsanseries/converIT/archive/master.zip)
+- [Get the Source Code](https://github.com/selwynorren/converIT/archive/master.zip)
 
 ### Installation from the source code
 
@@ -65,7 +65,7 @@ ninja
 #### Installation & executing
 ```
 sudo ninja install
-com.github.robertsanseries.ciano
+com.github.selwynorren.converIT
 ```
 
 #### Uninstalling
@@ -77,7 +77,7 @@ sudo ninja uninstall
 ### Contributing
 
 #### Donations
- - If you like Ciano and you want to support its development, consider donating via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S698J2TUEMT3C).
+ - If you like converIT and you want to support it's development, consider donating via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KFK8QK4E9ZQSL).
 
 #### Development
 To help, access the links below:
