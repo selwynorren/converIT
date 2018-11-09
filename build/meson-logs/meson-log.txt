@@ -1,0 +1,38 @@
+Build started at 2018-11-09T15:57:31.318518
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.46.1
+Source dir: /home/selwynorren/Projects/converIT
+Build dir: /home/selwynorren/Projects/converIT/build
+Build type: native build
+Project name: com.github.selwynorren.converIT
+Sanity testing C compiler: cc
+Is cross compiler: False.
+Sanity check compiler command line: cc /home/selwynorren/Projects/converIT/build/meson-private/sanitycheckc.c -o /home/selwynorren/Projects/converIT/build/meson-private/sanitycheckc.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/selwynorren/Projects/converIT/build/meson-private/sanitycheckc.exe
+Native C compiler: cc (gcc 7.3.0 "cc (Ubuntu 7.3.0-27ubuntu1~18.04) 7.3.0")
+Running compile:
+Working directory:  /tmp/tmp8g82wxua
+Command line:  valac /tmp/tmp8g82wxua/testfile.vala -C 
+
+Code:
+ class MesonSanityCheck : Object { }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Native Vala compiler: valac (valac 0.40.11)
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Determining dependency 'gtk+-3.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency gtk+-3.0 found: YES 3.22.30
+
+meson.build:21:4: ERROR:  File data/com.github.selwynorren.converIT.appdata.xml does not exist.

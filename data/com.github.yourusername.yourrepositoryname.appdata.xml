@@ -1,0 +1,29 @@
+<?xml version="0.0.1" encoding="UTF-8"?>
+<!-- Copyright 2018 Selwyn Orren <selwyn@linuxweb.co.za> -->
+<component type="desktop">
+  <id>com.github.selwynorren.converIT</id>
+  <metadata_license>CC0</metadata_license>
+  <name>converIT</name>
+  <summary>A multimedia file converter</summary>
+  <description>
+        <p>The easiest way to convert your multimedia files to the most popular formats.</p>
+        <p>Characteristics:</p>
+        <ul>
+          <li>Conversion of multiple files at the same time</li>
+          <li>Possibility of changing the output folder</li>
+          <li>Notification support</li>
+          <li>Close the application at any time with Ctrl + Q</li>
+        </ul>
+        <p>Supports the conversion of:</p>
+        <ul>
+          <li>Video - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+          <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+          <li>Images - JPG, BMP, PNG, TIF, GIF, TGA</li>
+        </ul>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#8AE4FF</value>
+    <value key="x-appcenter-color-primary-text">#000000</value>
+    <value key="x-appcenter-suggested-price">0</value>
+    </custom>
+</component>
