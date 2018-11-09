@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img width="64" height="64" src="https://github.com/robertsanseries/ciano/blob/master/data/images/com.github.robertsanseries.ciano.png" alt="Icon">converIT</h1>
+        <img width="64" height="64" src="https://github.com/selwynorren/converIT/blob/master/data/images/com.github.selwynorren.converIT.png" alt="Icon">converIT</h1>
   <h3 align="center">A multimedia file converter based on the brilliant Ciano.</h3>
 </div>
 
