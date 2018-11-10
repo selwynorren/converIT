@@ -1,0 +1,38 @@
+# German translations for com.github.selwynorren.converIT package.
+# Copyright (C) 2018 THE com.github.selwynorren.converIT'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.selwynorren.converIT package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.selwynorren.converIT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-10 21:14+0200\n"
+"PO-Revision-Date: 2018-11-10 21:14+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/com.github.selwynorren.converIT.desktop.in:3
+msgid "converIT"
+msgstr ""
+
+#: data/com.github.selwynorren.converIT.desktop.in:4
+msgid "Multimedia Converter"
+msgstr ""
+
+#: data/com.github.selwynorren.converIT.desktop.in:5
+msgid "Convert multimedia files to other formats"
+msgstr ""
+
+#: data/com.github.selwynorren.converIT.desktop.in:8
+msgid "com.github.selwynorren.converIT/"
+msgstr ""
+
+#: data/com.github.selwynorren.converIT.desktop.in:11
+msgid "converter;multimedia;audio;video;photo;photography;"
+msgstr ""
